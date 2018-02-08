@@ -11,8 +11,8 @@ namespace CataApp.Models.Cata
         public int IdMuestra { get; set; }
         public string CodigoMuestraBotella { get; set; }
 
-        public string CodigoMuestraBotella { get; set; }
-
+        public int IdDetalleScoreSheet { get; set; }
+        public decimal Puntaje { get; set; }
 
 
     }

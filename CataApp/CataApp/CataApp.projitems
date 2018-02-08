@@ -27,7 +27,11 @@
     <Compile Include="$(MSBuildThisFileDirectory)App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
-    <Compile Include="$(MSBuildThisFileDirectory)Models\Cata\ScoreSheet.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\ScoreSheet\Calificacion.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\ScoreSheet\DetalleScoreSheet.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\ScoreSheet\CuerpoScoreSheet.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\Defectos.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\Exactitud.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Models\Juez.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Models\Muestra.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Views\AboutPage.xaml.cs">

@@ -13,8 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CataApp.UWP", "CataApp\Cata
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		CataApp\CataApp\CataApp.projitems*{011a8031-5973-4d27-9288-24b535191ad5}*SharedItemsImports = 4
 		CataApp\CataApp\CataApp.projitems*{75e55b22-52b7-4f09-a704-467e32976b9f}*SharedItemsImports = 4
 		CataApp\CataApp\CataApp.projitems*{900b3b78-d315-4a84-a82a-cfa2b5c435b2}*SharedItemsImports = 13
+		CataApp\CataApp\CataApp.projitems*{a9b585b1-0a43-44b8-9602-ef69c3ef6bf4}*SharedItemsImports = 4
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
